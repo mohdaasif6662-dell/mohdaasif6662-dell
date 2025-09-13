@@ -29,7 +29,6 @@
 </p>
 
 
-
 # Hi, I’m Aasif 👋 A Django web developer and Python programmer. I love creating web apps, dashboards, and learning new technologies like Data Science
 # 💫 About Me:
 🔭 I’m currently working on Django based projects<br>👯 I’m looking to collaborate on Build an AI-powered personal assistant for Django-based projects.<br>🤝 I’m looking for help with I’m looking for help with developing and enhancing Django-based projects, including AI integration, payment systems, dynamic dashboards, and interactive web applications. I’m also open to collaboration on EdTech platforms, automation tools, and innovative web solutions.<br>🌱 I’m currently learning Data Science.<br>💬 Ask me about my current projects, Learning Goals, Collaboration Interest, Future Plans.<br>⚡ Fun fact Data Science” was first used in 1960, but it only became popular in the 2010s as big data and AI exploded.
@@ -42,10 +41,45 @@
   <img src="https://img.icons8.com/color/96/000000/mysql-logo.png" alt="MySQL"/>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemxuZDE2ajExZ3ZoeHk0ZnZha2Y2aDd1a3M1MGpiMmQzcTZxaWVtayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HscDLzkO8EOTmgkhQP/giphy.gif" 
+       alt="Coding GIF" 
+       width="600" 
+       height="350">
+</p>
+
 
 
 
 ## 🌐 Socials:
+
+
+<p align="center">
+
+  <!-- GitHub -->
+  <a href="https://github.com/mohdaasif6662-dell">
+    <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="50px" alt="GitHub"/>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/mohd-aasif-88ab7229a/">
+    <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="50px" alt="LinkedIn"/>
+  </a>
+
+
+  <!-- Instagram -->
+  <a href="https://instagram.com/your-instagram-id">
+    <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="50px" alt="Instagram"/>
+  </a>
+
+<!-- Reddit-->
+
+</p>
+
+
+
+
+
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/mohdaasif6662.bsky.social) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mohdaasif6662) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohdaasif6662) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/mohd-aasif-88ab7229a) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/mohdaasif6662) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohdaasif6662@gmail.com) 
 
 
