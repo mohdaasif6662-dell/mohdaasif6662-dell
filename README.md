@@ -3,6 +3,27 @@
 </p>
 
 
+<!-- Rainbow Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%">
+</p>
+
+<!-- Center Bold Line -->
+<p align="center">
+   ⚡ <b>Passionate Developer from India</b> ⚡
+</p>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=30&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=💻+Python+Developer;🌐+Django+Web+Developer;🤖+AI+%26+Machine+Learning;📊+Data+Science+%26+Deep+Learning;🚀+Always+Learning+New+Tech" alt="Typing SVG" />
+</p>
+
+<!-- Rainbow Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%">
+</p>
+
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=25&center=true&vCenter=true&width=600&lines=👋+Welcome+to+My+Coding+World;I'm+Mohd+Aasif;B.Tech+(CSE)+|+Web+Developer;Data+Science+Enthusiast;Exploring+AI+and+Django" alt="Welcome Message" />
 </p>
