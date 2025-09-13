@@ -1,3 +1,4 @@
+Hi I'm Mohd Aasif
 # 💫 About Me:
 🔭 I’m currently working on Django based projects<br>👯 I’m looking to collaborate on Build an AI-powered personal assistant for Django-based projects.<br>🤝 I’m looking for help with I’m looking for help with developing and enhancing Django-based projects, including AI integration, payment systems, dynamic dashboards, and interactive web applications. I’m also open to collaboration on EdTech platforms, automation tools, and innovative web solutions.<br>🌱 I’m currently learning Data Science.<br>💬 Ask me about my current projects, Learning Goals, Collaboration Interest, Future Plans.<br>⚡ Fun fact Data Science” was first used in 1960, but it only became popular in the 2010s as big data and AI exploded.
 
