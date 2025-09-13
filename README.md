@@ -1,10 +1,28 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350" alt="Typing">
+</p>
+
+
 # Hi, I’m Aasif 👋 A Django web developer and Python programmer. I love creating web apps, dashboards, and learning new technologies like Data Science
 # 💫 About Me:
 🔭 I’m currently working on Django based projects<br>👯 I’m looking to collaborate on Build an AI-powered personal assistant for Django-based projects.<br>🤝 I’m looking for help with I’m looking for help with developing and enhancing Django-based projects, including AI integration, payment systems, dynamic dashboards, and interactive web applications. I’m also open to collaboration on EdTech platforms, automation tools, and innovative web solutions.<br>🌱 I’m currently learning Data Science.<br>💬 Ask me about my current projects, Learning Goals, Collaboration Interest, Future Plans.<br>⚡ Fun fact Data Science” was first used in 1960, but it only became popular in the 2010s as big data and AI exploded.
 
 
+
+<p align="center">
+  <img src="https://img.icons8.com/color/96/000000/python.png" alt="Python"/>
+  <img src="https://img.icons8.com/color/96/000000/django.png" alt="Django"/>
+  <img src="https://img.icons8.com/color/96/000000/mysql-logo.png" alt="MySQL"/>
+</p>
+
+
+
+
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/mohdaasif6662.bsky.social) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mohdaasif6662) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohdaasif6662) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/mohd-aasif-88ab7229a) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/mohdaasif6662) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohdaasif6662@gmail.com) 
+
+
+
 
 ## 🚀 Tech Stack | Tools & Technologies I Use  
 
@@ -107,11 +125,37 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdaasif6662-dell&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+ ![](https://komarev.com/ghpvc/?username=mohdaasif6662-dell&label=Profile%20Views&color=blueviolet&style=flat)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mohdaasif6662-dell&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Dev Quote" width="80%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="80%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=gruvbox" alt="Dev Quote" />
+</p>
+
+
+
+
+
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mohdaasif6662-dell&icon=0&color=0)](https://visitcount.itsvg.in)
